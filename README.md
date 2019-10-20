@@ -4,14 +4,14 @@
 
 Projeto desenvolvido durante a Masterclass #01 - SQL no Node.js com Sequelize oferecida pela [Rockeseat](https://blog.rocketseat.com.br/) e disponível no [Youtube](https://www.youtube.com/watch?v=Fbu7z5dXcRs).
 
-## Tecnologias Utilizadas
+## :computer: Tecnologias Utilizadas  
 
 * [Node.js](https://nodejs.org/en/): Ambiente de execução Javascript server-side;
 * [Express](https://expressjs.com/pt-br/): Framework Node.js para construção das rotas e middlewares do projeto;
 * [Sequelize](https://sequelize.org/): ORM (Object-relational mapping) para Banco de Dados relacional;
 * [Postegre](https://www.postgresql.org/) : Sistema Gerenciador de Banco de Dados;
 
-## Estrutura do Projeto
+## :page_facing_up: Estrutura do Projeto 
 
 --src/  
 ----config/  
@@ -35,3 +35,7 @@ Projeto desenvolvido durante a Masterclass #01 - SQL no Node.js com Sequelize of
 ----server.js  
 --.sequelizerc  
 --package.json  
+
+## :lock: Licença
+
+Desenvolvido por [Carolina Chaves](https://www.linkedin.com/in/carolinachaves1/)
